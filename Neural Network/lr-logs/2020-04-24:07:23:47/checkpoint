@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Kunal/ML/Neural Network/lr-logs/2020-04-24:07:23:47/my_logreg_model.ckpt"
+all_model_checkpoint_paths: "/Users/Kunal/ML/Neural Network/lr-logs/2020-04-24:07:23:47/my_logreg_model.ckpt"
